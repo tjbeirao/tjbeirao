@@ -20,4 +20,4 @@ I bring 5+ years of experience working with TypeScript, JavaScript, C#, React, N
 
 **Snow Angels Guelph** - Volunteered in a local program assisting in snow removal for people in need.
 
-_Note_: My projects are typically hosted on Azure. If you're looking for code samples or additional project information, feel free to reach out!
+## _Note_: My projects are typically hosted on Azure. If you're looking for code samples or additional project information, feel free to reach out!
