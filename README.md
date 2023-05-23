@@ -1,28 +1,23 @@
-## 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! 
+## 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! 👋
 
-### I'm a a highly motivated and results-driven Full Stack Developer with a Bachelor of Business Administration and extensive experience in software development. With a passion about delivering innovative solutions and contributing to team success through hard work, attention to detail, and excellent organizational skills. Committed to staying current with emerging technologies and industry trends to stay ahead in the competitive market.
+### I'm a Full Stack Developer with a strong business background and a passion for innovation. 🚀
 
-- 🔭 I’m currently working on React, Redux, Node.js, GraphQL, NextJS and PostgreSQL.
-- 🌱 I’m currently learning web designing and VueJS.
-- 💬 Ask me about tech, coffee, PC games, volleyball and animals 🤼‍♀️ 🥋
-- 😄 Pronouns: he/him
-- ✨ Fun fact: Folding cloathes is not my stronger skill.
-- ⚡ Languages: TypeScript, JavaScript, C#, React, Angular, Vue.js, CSS, HTML, Web3, SCSS 
+I bring 5+ years of experience working with TypeScript, JavaScript, C#, React, Node.js, CSS, HTML, Web3, SCSS and 2+ Angular, Vue.js, and more. Currently, I'm diving deeper into web designing and VueJS.
 
-### PROJECTS
-**Co-Founder and Full Stack Developer -  [Fables.ink](https://fables.ink)**
-Responsible for the design, development, and launch of a content creation platform with an integrated
-marketplace for creators.
-▪ Designed and built a content creation website featuring an intuitive markdown editor and a marketplace
-for creators to share and sell their work.
-▪ Integrated popular mechanics from systems like DnD-5e, becoming a popular choice for creators and
-players seeking new adventures.
+- 🔭 I’m working on exciting projects with React, Redux, Node.js, GraphQL, NextJS, and PostgreSQL.
+- 💬 Let's talk about tech, coffee, PC games, volleyball, and animals!
+- 😄 Pronouns: He/Him
+- ✨ Fun fact: Folding clothes might be my kryptonite.
+- 📫 How to reach me: [Email](mailto:yourmail@mail.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
 
-### COMMUNITY AND SOCIAL WORK
-**BRTech Toronto - Founder**
-Founded and built the BRTech Toronto community, organizing 2 events with over 200 attendees and 10
-speakers, fostering collaboration among its 500+ participants to create a better tech community.
+### 🎯 Projects
 
-**Snow Angels Guelph - Volunteer**
-Actively participated in the Snow Angels program in Guelph, assisting in snow removal for houses belonging
-to people in need.
+**[Fables.ink](https://fables.ink)**: As a Co-Founder and Full Stack Developer, I designed, developed, and launched a content creation platform with an integrated marketplace, attracting creators and players seeking new adventures.
+
+### 🌐 Community and Social Work
+
+**BRTech Toronto** - Founded and built a tech community with over 500+ participants, organizing events to foster collaboration.
+
+**Snow Angels Guelph** - Volunteered in a local program assisting in snow removal for people in need.
+
+_Note_: My projects are typically hosted on Azure. If you're looking for code samples or additional project information, feel free to reach out!
