@@ -8,3 +8,21 @@
 - 😄 Pronouns: he/him
 - ✨ Fun fact: Folding cloathes is not my stronger skill.
 - ⚡ Languages: TypeScript, JavaScript, C#, React, Angular, Vue.js, CSS, HTML, Web3, SCSS 
+
+### PROJECTS
+**Co-Founder and Full Stack Developer -  [https://fables.ink](Fables.ink)**
+Responsible for the design, development, and launch of a content creation platform with an integrated
+marketplace for creators.
+▪ Designed and built a content creation website featuring an intuitive markdown editor and a marketplace
+for creators to share and sell their work.
+▪ Integrated popular mechanics from systems like DnD-5e, becoming a popular choice for creators and
+players seeking new adventures.
+
+### COMMUNITY AND SOCIAL WORK
+**BRTech Toronto - Founder**
+Founded and built the BRTech Toronto community, organizing 2 events with over 200 attendees and 10
+speakers, fostering collaboration among its 500+ participants to create a better tech community.
+
+**Snow Angels Guelph - Volunteer**
+Actively participated in the Snow Angels program in Guelph, assisting in snow removal for houses belonging
+to people in need.
