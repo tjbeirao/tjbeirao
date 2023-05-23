@@ -16,8 +16,7 @@ I bring 5+ years of experience working with TypeScript, JavaScript, C#, React, N
 
 ### 🌐 Community and Social Work
 
-**BRTech Toronto** - Founded and built a tech community with over 500+ participants, organizing events to foster collaboration.
-
+**BRTech Toronto** - Founded and built a tech community with over 500+ participants, organizing events to foster collaboration. I stepped out of the management after moving to Calgary in 2022.
 **Snow Angels Guelph** - Volunteered in a local program assisting in snow removal for people in need.
 
 _Note_: My projects are typically hosted on Azure. If you're looking for code samples or additional project information, feel free to reach out!
