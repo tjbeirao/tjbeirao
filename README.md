@@ -8,7 +8,7 @@ I bring 5+ years of experience working with TypeScript, JavaScript, C#, React, N
 - 💬 Let's talk about tech, coffee, PC games, volleyball, and animals!
 - 😄 Pronouns: He/Him
 - ✨ Fun fact: Folding clothes might be my kryptonite.
-- 📫 How to reach me: [Email](mailto:yourmail@mail.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: [Email](mailto:dev.tjansen@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tjbeirao)
 
 ### 🎯 Projects
 
