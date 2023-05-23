@@ -10,7 +10,7 @@
 - ⚡ Languages: TypeScript, JavaScript, C#, React, Angular, Vue.js, CSS, HTML, Web3, SCSS 
 
 ### PROJECTS
-**Co-Founder and Full Stack Developer -  [https://fables.ink](Fables.ink)**
+**Co-Founder and Full Stack Developer -  [Fables.ink](https://fables.ink)**
 Responsible for the design, development, and launch of a content creation platform with an integrated
 marketplace for creators.
 ▪ Designed and built a content creation website featuring an intuitive markdown editor and a marketplace
