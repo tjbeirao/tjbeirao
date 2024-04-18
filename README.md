@@ -2,9 +2,9 @@
 
 ### I'm a Full Stack Developer with a strong business background and a passion for innovation. 🚀
 
-I bring 5+ years of experience working with TypeScript, JavaScript, C#, React, Node.js, CSS, HTML, Web3, SCSS and 2+ Angular, Vue.js, and more. Currently, I'm diving deeper into web designing and VueJS.
+I bring 8+ years of experience working with TypeScript, JavaScript, C#, React, Node.js, CSS, HTML, SCSS and 2+ year years in Angular, Vue.js, and more. Currently, I'm diving deeper into React Native and improving my designing skills.
 
-- 🔭 I’m working on exciting projects with React, Redux, Node.js, GraphQL, NextJS, and PostgreSQL.
+- 🔭 I’m working on exciting projects with React, Redux, Node.js, C#, and Azure Cloud.
 - 💬 Let's talk about tech, coffee, PC games, volleyball, and animals!
 - 😄 Pronouns: He/Him
 - ✨ Fun fact: Folding clothes might be my kryptonite.
