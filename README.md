@@ -49,4 +49,4 @@ Full stack, front-end leaning. I build web and mobile products that ship, scale,
 ### Contact
 - Email: dev.tjansen@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tjbeirao/
-- Portfolio: https://tjansen.dev
+- Portfolio: https://tjansen.dev (under construction)
